@@ -25,7 +25,7 @@ async function ReviewCode() {
 
   return (
     <>
-    <h1 className='head'>AI code reviewer</h1>
+    <h1 className='head'>AI Code Reviewer</h1>
 <main>
         <div className="left">
           <div className="code">
